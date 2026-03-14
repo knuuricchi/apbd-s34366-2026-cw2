@@ -24,4 +24,9 @@ public class StatisticsHelper
         }
         return maxValue;
     }
+    
+    public static int CalculateMin(int[] values)
+    {
+        return values.Min();
+    }
 }
