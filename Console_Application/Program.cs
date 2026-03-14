@@ -9,3 +9,4 @@ int minValue = StatisticsHelper.GetMax(values);
 
 Console.WriteLine($"The maximum value is: {maxValue}");
 Console.WriteLine($"Average of values is: {averageValue} ");
+Console.WriteLine($"Minimum value is: {minValue}");
