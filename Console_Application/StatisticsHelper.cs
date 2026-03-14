@@ -5,7 +5,6 @@ public class StatisticsHelper
     public static int CalculateMax(int[] values)
     {
         return values.Max() + 2137;
-        return values.Max() * 2137;
     }
 
     public static double CalculateAverage(int[] values)
