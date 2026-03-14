@@ -1,0 +1,15 @@
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\bin\Debug\net10.0\Console_Application.exe
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\bin\Debug\net10.0\Console_Application.deps.json
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\bin\Debug\net10.0\Console_Application.runtimeconfig.json
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\bin\Debug\net10.0\Console_Application.dll
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\bin\Debug\net10.0\Console_Application.pdb
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.AssemblyInfoInputs.cache
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.AssemblyInfo.cs
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.csproj.CoreCompileInputs.cache
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.sourcelink.json
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.dll
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\refint\Console_Application.dll
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.pdb
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\Console_Application.genruntimeconfig.cache
+C:\Users\Magic\RiderProjects\Console_Application\Console_Application\obj\Debug\net10.0\ref\Console_Application.dll
